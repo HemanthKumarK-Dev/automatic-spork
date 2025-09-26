@@ -1,0 +1,6 @@
+sale_id,sale_date,product_id,product_name,category,customer_id,customer_name,region,quantity,unit_price,sale_amount,currency,source_file
+1001,2025-09-25,501,Blue T-Shirt,Apparel,2001,Anil Kumar,North,2,299.00,598.00,INR,sales_2025-09-25.csv
+1002,2025-09-25,502,Red Sneakers,Footwear,2002,Sneha Patel,West,1,2499.00,2499.00,INR,sales_2025-09-25.csv
+1003,2025-09-25,503,Cotton Socks,Apparel,2003,Rajesh Sharma,South,5,49.00,245.00,INR,sales_2025-09-25.csv
+1004,2025-09-25,504,Smart Watch,Electronics,2004,Priya Rao,East,1,4999.00,4999.00,INR,sales_2025-09-25.csv
+1005,2025-09-25,505,Water Bottle,Home,2005,Vikram Singh,North,3,199.00,597.00,INR,sales_2025-09-25.csv
