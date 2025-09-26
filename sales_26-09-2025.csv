@@ -1,0 +1,6 @@
+sale_id,sale_date,product_id,product_name,category,customer_id,customer_name,region,quantity,unit_price,sale_amount,currency,source_file
+1006,2025-09-26,501,Blue T-Shirt,Apparel,2006,Leena Iyer,West,1,299.00,299.00,INR,sales_2025-09-26.csv
+1002,2025-09-26,502,Red Sneakers,Footwear,2002,Sneha Patel,West,2,2499.00,4998.00,INR,sales_2025-09-26.csv
+1007,2025-09-26,506,Running Cap,Apparel,2007,Arun Mehta,South,4,149.00,596.00,INR,sales_2025-09-26.csv
+1008,2025-09-26,504,Smart Watch,Electronics,2008,Nisha Verma,East,1,4999.00,4999.00,INR,sales_2025-09-26.csv
+1009,2025-09-26,507,Notebook,Office,2009,Rahul Jain,North,10,59.00,590.00,INR,sales_2025-09-26.csv
